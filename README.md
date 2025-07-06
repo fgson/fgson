@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Fredrik (fgson)
 
-<!--
-**fgson/fgson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Founder | 🔐 Developer | 🧠 Data Engineer  
+Passionate about open source, automation and privacy-first systems.
 
-Here are some ideas to get you started:
+## 🔧 Tech I work with
+- 💻 Python, Bash, Docker, Git, C, C++, SQL
+- ☁️ Proxmox, pfSense, NGINX, Linux, Windows, BSD
+- 📊 Data tools: Pandas, Grafana, InfluxDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+I'm currently cleaning and preparing some internal tools for open source release. Stay tuned!
+
+## 📫 Contact
+- ✉️ fredgson@gmail.com
