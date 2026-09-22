@@ -2,7 +2,7 @@
 
 <img src="./assets/gz-logo.png" alt="GZ" width="520">
 
-# Fredrik `gzon`
+# Fredrik `Gzon`
 
 **Software · Systems · Automation**
 
